@@ -1,0 +1,12 @@
+{
+  "name": "abduls-attars-storefront",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "dependencies": {
+    "stripe": "^18.5.0"
+  }
+}
