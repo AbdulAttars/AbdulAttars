@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <symbol id="fresh" viewBox="0 0 160 120">
+    <circle cx="83" cy="62" r="49" fill="currentColor" opacity=".07" stroke="none"/>
+    <path fill="currentColor" fill-opacity=".1" d="M66 83C37 66 47 31 92 21c6 35-2 58-26 62Z"/><path d="M57 96c9-25 18-42 31-64M65 75l-6-20m16 3 14-6M100 69h26c16 0 18-18 4-18m-29 32h18c15 0 17 15 5 15"/>
+  </symbol>
+  <symbol id="sweet" viewBox="0 0 160 120">
+    <circle cx="83" cy="62" r="49" fill="currentColor" opacity=".07" stroke="none"/>
+    <path fill="currentColor" fill-opacity=".1" d="M45 101c17-38 29-63 37-72-2 19-14 51-30 72Zm21 3c13-32 29-56 44-70-5 23-20 49-37 72Z"/><path d="m50 93 26-53m-4 58 28-50"/><path fill="currentColor" fill-opacity=".1" d="M105 32c-13-5-11-19-2-17 6 1 8 7 9 12 8-12 20-8 16 1-2 5-9 7-15 7 12 7 9 19 0 15-5-2-7-8-7-14-8 12-20 7-15-1 3-5 8-5 14-3Z"/><circle cx="109" cy="32" r="3"/>
+  </symbol>
+  <symbol id="floral" viewBox="0 0 160 120">
+    <circle cx="83" cy="62" r="49" fill="currentColor" opacity=".07" stroke="none"/>
+    <path d="M81 63v42m0-18C61 89 49 81 46 69c20-2 31 6 35 18Zm0 10c20 1 32-8 35-21-20 0-31 7-35 21Z"/><path fill="currentColor" fill-opacity=".1" d="M80 31c-16-29-39-3-17 11-31 6-17 38 9 23-5 32 29 32 24 0 26 15 40-17 9-23 22-14-1-40-17-11-2-4-6-4-8 0Z"/><circle cx="84" cy="48" r="10"/><circle cx="84" cy="48" r="4"/>
+  </symbol>
+  <symbol id="woody" viewBox="0 0 160 120">
+    <circle cx="83" cy="62" r="49" fill="currentColor" opacity=".07" stroke="none"/>
+    <ellipse fill="currentColor" fill-opacity=".1" cx="73" cy="76" rx="34" ry="27"/><ellipse cx="73" cy="76" rx="24" ry="19"/><ellipse cx="73" cy="76" rx="14" ry="11"/><path d="m99 58 20-21c30 4 37 31 12 48l-31 9M79 49l17-18 23 6m-16 16 14-13m-7 25 20-18m-19 34 22-16M52 48c8-17 26-30 48-34-4 16-17 24-37 23m-1 2 27-18"/>
+  </symbol>
+  <symbol id="spicy" viewBox="0 0 160 120">
+    <circle cx="83" cy="62" r="49" fill="currentColor" opacity=".07" stroke="none"/>
+    <path fill="currentColor" fill-opacity=".1" d="m76 21 8 22 23-10-10 22 23 8-23 8 10 22-23-10-8 22-8-22-23 10 10-22-23-8 23-8-10-22 23 10Z"/><circle cx="76" cy="63" r="9"/><path d="m76 32 0 21m0 20v20m-31-30h21m20 0h22m-54-22 15 15m14 14 15 15m0-44L83 56M69 70 54 85m63-53 15 52m-9-54 15 52"/>
+  </symbol>
+  <symbol id="fruity" viewBox="0 0 160 120">
+    <circle cx="83" cy="62" r="49" fill="currentColor" opacity=".07" stroke="none"/>
+    <path d="M64 67c-2-23 4-35 22-48m18 52c-1-20-6-37-18-52"/><path fill="currentColor" fill-opacity=".1" d="M85 23c5-14 23-14 37-3-13 11-27 12-37 3Z"/><path d="m89 23 23-2"/><path fill="currentColor" fill-opacity=".1" d="M65 65c-22-9-34 9-24 28 10 19 35 13 40-8 3-13-5-22-16-20Zm40 5c-20-8-33 7-26 24 8 19 34 17 41-3 4-11-3-22-15-21Z"/><path d="M49 77c-4 7-1 13 3 17m36-10c-3 6 0 12 4 15"/>
+  </symbol>
+</svg>
